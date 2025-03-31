@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Conta-Banco/src"/>
+	<classpathentry kind="src" path="controle-de-candidatos/src"/>
+	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="output" path="Conta-Banco/bin"/>
+</classpath>
